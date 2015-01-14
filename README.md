@@ -1,9 +1,9 @@
-ContentMine Workshop at the Wellcome Trust
+Workshop at the Wellcome Trust
 ==============
 
 ![ContentMine logo](https://github.com/ContentMine/ebi_workshop_20141006/raw/master/setup/CM_logo.png)
 
-## Register [here] (https://docs.google.com/document/d/1qywY1DZA3USobC4_Nq0A4iNTXW0vvOkQmY9qs3sCXkI/pub) (registration is FREE)
+## Register [here] (https://docs.google.com/document/d/1qywY1DZA3USobC4_Nq0A4iNTXW0vvOkQmY9qs3sCXkI/pub) (registration is FREE, places limited to 25 )
 
 #### Location: Darwin Room, Wellcome Trust, 215 Euston Road, London NW1 2BE
 #### Dates: 13-14 April 2015
