@@ -14,6 +14,7 @@ Workshop at the Wellcome Trust
 |10:00 - 18:00          | 09:00 - 17:00 
 
 ## <img src="http://www.biddlestudios.com/images/twitter_favicon.png" alt="twitter logo" style="width:10px;height:10px"> \#WellcomeTDM
+Contact us via [@TheContentMine] (https://twitter.com/TheContentMine) or contact@contentmine.org
 
 ### Trainers:
 
