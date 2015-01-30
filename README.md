@@ -13,7 +13,7 @@ Workshop at the Wellcome Trust
 |Training Workshop      | Hackday & Policy Panel Session
 |10:00 - 18:00          | 09:00 - 17:00 
 
-## <img src="http://www.biddlestudios.com/images/twitter_favicon.png" alt="twitter logo" style="width:10px;height:10px"> \#TDM@WT
+## <img src="http://www.biddlestudios.com/images/twitter_favicon.png" alt="twitter logo" style="width:10px;height:10px"> \#WellcomeTDM
 
 ### Trainers:
 
