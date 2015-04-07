@@ -67,7 +67,7 @@ This two day event is intended for researchers or research-related staff who are
 |15:00      |**Legality of content mining: what can I mine?** <ul><li> Presentation and Q&A by ContentMine staff covering copyright, database and contract law. Special attention will be paid to the UK copyright exception </li></ul>|
 |15:30      |**Responsible content mining: how should I mine?** <ul><li> Presentation and Q&A by ContentMine staff covering  server limits, online scraping etiquette and responsible technology use.</li></ul>|
 |16:00    |**Hackday pitches and forming teams** <ul><li>Presentations by individuals and groups followed by discussion in newly formed teams facilitated by ContentMine staff.</li></ul>|
-|18:00 onwards|**Informal social event** <ul><li>Move as a group to nearby pub or late opening cafe to discuss hackday projects.</li></ul>|
+|18:00 onwards|**Informal social event** <ul><li>Move as a group to nearby pub or late opening cafe to discuss hackday projects.</li></ul>| Reservation confirmed at the Euston Flyer from 18:00 onwards.
 
 ### Workshop Hackday and Policy Panel Session Agenda
 | Times           | Session                 |
