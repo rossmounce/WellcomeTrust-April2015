@@ -106,4 +106,4 @@ Use document sectioning with ContentMine pipeline to search for mentions of “W
 7. Custom searches using regular expressions module AMI-regex to expand the keyword searches offered by most custom/saved search systems. This is especially poweful if sectioning is offered. Custom prototype would be a challenging project e.g. for EuropePMC or daily output of PLOS.
 8. Developing a system for feeding facts from Wellcome funded CC-BY publications into Wikidata and Wikipedia to maximise access. This would likely involve generating a feed which Wikipedia editors can follow and then add facts manually. It could make use of custom searches and co-location.
 
-## Click here to be advised of future ContentMine Workshops https://groups.google.com/d/forum/contentmine-workshops 
+## Click [here](https://groups.google.com/d/forum/contentmine-workshops) to be advised of future ContentMine Workshops  
