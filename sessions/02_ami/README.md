@@ -6,3 +6,4 @@ Peter Murray-Rust ([@petermurrayrust](https://twitter.com/petermurrayrust)) will
 
 1. [normalising files](https://github.com/ContentMine/WellcomeTrust-April2015/blob/master/sessions/02_ami/01_normalisation.md)
 2. [identifying species](https://github.com/ContentMine/WellcomeTrust-April2015/blob/master/sessions/02_ami/02_species.md)
+3. [regular expressions](https://github.com/ContentMine/WellcomeTrust-April2015/blob/master/sessions/02_ami/03_regex.md)
