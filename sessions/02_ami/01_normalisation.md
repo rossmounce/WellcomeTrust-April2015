@@ -8,21 +8,21 @@ We have downloaded 100 random files from PLoSONE from the (Europe) PMC web site.
 
 The filenames are of the form: `e0119090.xml`, etc. The files are in the NLM XML format, which is a format used by some publishers to expose articles for data mining. However, the format is complex and not always standardised, so we simplify and convert it to Scholarly HTML.
  
-### Converting a single file to Scholarly HTML
+### Creating a single `scholarly.html`
 
-None of the files is in ContentMine (CM) directory format, so we have to create this. Taking a single file
+We will start with a single file
 
 ```
 e0115544.xml
 ```
+
 in the directory
+
 ```
 ~/workshop/02_ami/plos_one_latest_10/
 ```
 
-### Creating a single `scholarly.html`
-
-We can use the same directory and create a `scholarly.html` from the `fulltext.xml`.
+We will create a `scholarly.html` from the `fulltext.xml`.
 
 ```
 norma -q ~/workshop/02_ami/plos_one_latest_10/e0115544 --input fulltext.xml --output scholarly.html --xsl nlm2html
