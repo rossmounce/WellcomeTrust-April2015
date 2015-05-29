@@ -32,7 +32,7 @@ read this as:
  * run `norma` as a transformer
  * on the CM directory `~/workshop/02_ami/plos_one_latest_10/e0115544`
  * use the file `fulltext.xml` in it as input
- * use the (XSL) stylesheet `nlm2html` to transform it
+ * use the (XSL) stylesheet `nlm2html` to transform it (warning: BMC journals require `bmc2html')
  * into the output `scholarly.html`
 
 We have specifically developed the stylesheet for XML (such as PLoSONE) which conforms to `JATS` `NLM` . Only a few journals (BMC, Elsevier) use a different DTD and we can create those variants fairly easily. The output is:
