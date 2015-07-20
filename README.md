@@ -1,17 +1,17 @@
-Workshop at the Wellcome Trust
+ContentMine Workshop at the University of Bath
 ==============
 
 ![ContentMine logo](https://github.com/ContentMine/ebi_workshop_20141006/raw/master/setup/CM_logo.png)
 
-## Register [here] (http://www.eventbrite.co.uk/e/contentmine-workshop-at-the-wellcome-trust-tickets-15567357385) (registration is FREE, places limited to 25 )
+## Register [here] (http://www.eventbrite.com/e/text-data-mining-for-biologists-registration-17603659018) (registration is FREE, places limited to 25 )
 
-#### Location: Darwin Room, Wellcome Trust, 215 Euston Road, London NW1 2BE
-#### Dates: 13-14 April 2015
+#### Location: Room 3.7, Building 3 West, University of Bath
+#### Date: 28th July 2015
 
-|13 April 2015          | 14 April 2015 |
-:---------------:         | :------------:|
-|Training Workshop      | Hackday & Policy Panel Session
-|10:00 - 18:00          | 09:00 - 17:00 
+|28th July 2015          | 
+:---------------:         | 
+|Training Workshop      | 
+|10:00 - 17:30          |  
 
 ## <img src="http://www.biddlestudios.com/images/twitter_favicon.png" alt="twitter logo" style="width:10px;height:10px"> \#WellcomeTDM
 Contact us via [@TheContentMine] (https://twitter.com/TheContentMine) or contact@contentmine.org
