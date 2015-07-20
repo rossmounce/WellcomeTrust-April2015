@@ -3,7 +3,7 @@ ContentMine Workshop at the University of Bath
 
 ![ContentMine logo](https://github.com/ContentMine/ebi_workshop_20141006/raw/master/setup/CM_logo.png)
 
-## Register [here] (http://www.eventbrite.com/e/text-data-mining-for-biologists-registration-17603659018) (registration is FREE, places limited to 25 )
+## Information about the event [here] (http://www.eventbrite.com/e/text-data-mining-for-biologists-registration-17603659018) 
 
 #### Location: Room 3.7, Building 3 West, University of Bath
 #### Date: 28th July 2015
@@ -64,39 +64,10 @@ This one day event is intended for researchers or research-related staff who are
 |16:00    |**Hackday pitches and forming teams** <ul><li>Presentations by individuals and groups followed by discussion in newly formed teams facilitated by ContentMine staff.</li></ul>|
 |18:00 onwards|**Informal social event** <ul><li>Move as a group to nearby pub or late opening cafe to discuss hackday projects.</li></ul>| Reservation confirmed at the Euston Flyer from 18:00 onwards.  
 
-### Workshop Hackday and Policy Panel Session Agenda
-| Times           | Session                 |
-| ----            | -------                 |
-|09:00            |**Hacking in teams**     |
-|13:00            |**Lunch**                |
-|13:30            |**Hacking in teams**     | 
-|15:30            |**Coffee Break**<ul><li>Arrival of policy panel session attendees</ul></li>|
-|15:45            |**Introduction to content mining**<ul><li>Presentation delivered by Peter Murray-Rust to new attendeess</ul></li>|
-|16:00            |**Presentation of hackday projects**<ul><li>Presentations delivered by participants, including future scope for development of their projects.</ul></li>|
-|16:30            | **Panel discussion on accelerating uptake of content mining.**<ul><li>Panel and Q&A with audience including workshop participants.</ul></li>|
-|17:30            | **Event close**|
-
 ### Documentation
 
-The primary means of communication and taking notes during the workshop will be via this [Etherpad] (http://pads.cottagelabs.com/p/contentmine_wellcometrust2014). 
+The primary means of communication and taking notes during the workshop will be via this [Etherpad] (http://pads.cottagelabs.com/p/contentmine_bath). 
 
 If you're not familiar with Etherpads, it's easy - you just type! Your writing will show up in a different colour to other people's and you can associate the colour with your name by clicking the person icon in the top right corner of the screen.
-
-### Potential Hackday Projects
-
-Tasks within these projects range from non-technical e.g. putting together a bag of words to retrieve documents related to a certain research area through to technically challenging even for skilled developers. 
-
-1. Find Wellcome Trust funded papers and visualise their associated MeSH heading or other topic indicators in a tag cloud to indicate areas with which Wellcome funding is most associated.
-2. Find Wellcome funded Open Access (OA) papers and compare subject set to main tag cloud.
-Use document sectioning with ContentMine pipeline to search for mentions of “Wellcome Trust” in acknowledgements section on a daily basis.
-3. Find Wellcome funded papers and visualise or summarise by publisher.
-4. Build custom scrapers for journals and publishers with which attendees publish.
-5. Retrieve documents relate to Wellcome Trust areas of interest using a bag-of-regex system. Compile lists of words and phrases then search cached OA literature or daily RSS feeds from publishers. ContentMine have been experimenting with this system for terms related to Ebola and (in a separate project) agriculture. The results have been very interesting in terms of facts extracted.
-6. Co-location of entities (both within document and within sentence).  
-  * We can currently extract species and chemistry in standalone modules.
-  * The AMI-regex module allows content miners to search for specific terms or relatively easily described patterns e.g. microRNAs, primers.
-  * This allows us to pull out co-occurrences of plants and herbivores, chemicals and mosquitoes etc. This feature is not fully functioning but is a development priority.
-7. Custom searches using regular expressions module AMI-regex to expand the keyword searches offered by most custom/saved search systems. This is especially poweful if sectioning is offered. Custom prototype would be a challenging project e.g. for EuropePMC or daily output of PLOS.
-8. Developing a system for feeding facts from Wellcome funded CC-BY publications into Wikidata and Wikipedia to maximise access. This would likely involve generating a feed which Wikipedia editors can follow and then add facts manually. It could make use of custom searches and co-location.
 
 ## Click [here](https://groups.google.com/d/forum/contentmine-workshops) to be advised of future ContentMine Workshops  
