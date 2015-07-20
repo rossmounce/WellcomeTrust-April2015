@@ -53,16 +53,16 @@ This one day event is intended for researchers or research-related staff who are
 | Times           | Session                 |
 | ----            | -------                 |
 |10:00      |**Introductions**            |
-|10:10      |**What is content mining?** <ul><li>Overview presentation from ContentMine staff</li></ul>|
-|10:30      |**Think like a content miner** <ul><li>Hands-on activity facilitated by ContentMine staff introducing entity extraction techniques, precision and recall.</li></ul>|
-|11:00      |**Scraping and the anatomy of scrapers** <ul><li>Hands-on activity facilitated by ContentMine staff including use of quickscrape and custom scraper development.</li></ul>|
-|12:00      |**Entity recognition using AMI** <ul><li>Hands-on activity facilitated by ContentMine staff  including extracting species names from OA papers using AMI-species.</li></ul>|
+|10:10      |**What is content mining?** <ul><li>Overview presentation from Ross Mounce</li></ul>|
+|10:30      |**Think like a content miner** <ul><li>Hands-on activity facilitated by the ContentMine trainers introducing entity extraction techniques, precision and recall.</li></ul>|
+|11:00      |**Introducing getpapers** <ul><li>Introducing the handy `getpapers` tool mining open access content</li></ul>|
+|12:00      |**Scraping and the anatomy of scrapers** <ul><li>Hands-on activity facilitated by the ContentMine trainers including use of quickscrape and custom scraper development.</li></ul>|
 |13:00      |**Lunch**|
-|13:30      |**Introduction to regular expressions and AMI-regex** <ul><li>Hands-on activity facilitated by ContentMine staff  including regex creation in groups and use of AMI-regex.</li></ul>|
-|15:00      |**Legality of content mining: what can I mine?** <ul><li> Presentation and Q&A by ContentMine staff covering copyright, database and contract law. Special attention will be paid to the UK copyright exception </li></ul>|
-|15:30      |**Responsible content mining: how should I mine?** <ul><li> Presentation and Q&A by ContentMine staff covering  server limits, online scraping etiquette and responsible technology use.</li></ul>|
-|16:00    |**Hackday pitches and forming teams** <ul><li>Presentations by individuals and groups followed by discussion in newly formed teams facilitated by ContentMine staff.</li></ul>|
-|18:00 onwards|**Informal social event** <ul><li>Move as a group to nearby pub or late opening cafe to discuss hackday projects.</li></ul>| Reservation confirmed at the Euston Flyer from 18:00 onwards.  
+|14:00      |**Entity recognition using AMI** <ul><li>Hands-on activity facilitated by ContentMine staff  including extracting species names from OA papers using AMI-species.</li></ul>|
+|15:00      |**Introduction to regular expressions and AMI-regex** <ul><li>Hands-on activity facilitated by ContentMine staff  including regex creation in groups and use of AMI-regex.</li></ul>|
+|15:30      |**Legality of content mining: what can I mine?** <ul><li> Presentation and Q&A by ContentMine staff covering copyright, database and contract law. Special attention will be paid to the UK copyright exception </li></ul>|
+|16:00    |**Working on your own use cases** <ul><li>Time to work on your own use-cases with expert help on hand.</li></ul>|
+|17:30 onwards|**Informal social event** <ul><li>Move as a group to nearby student union bar for drinks and discussion.</li></ul>  
 
 ### Documentation
 
