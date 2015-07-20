@@ -13,14 +13,14 @@ ContentMine Workshop at the University of Bath
 |Training Workshop      | 
 |10:00 - 17:30          |  
 
-## <img src="http://www.biddlestudios.com/images/twitter_favicon.png" alt="twitter logo" style="width:10px;height:10px"> \#WellcomeTDM
-Contact us via [@TheContentMine] (https://twitter.com/TheContentMine) or contact@contentmine.org
+## <img src="http://www.biddlestudios.com/images/twitter_favicon.png" alt="twitter logo" style="width:10px;height:10px"> \#BathMining
+Contact us via [@TheContentMine] (https://twitter.com/TheContentMine) or ross.mounce@gmail.com
 
 
 ### Trainers:
 
+- Ross Mounce [@rmounce](https://twitter.com/rmounce)
 - Peter Murray-Rust [@petermurrayrust](https://twitter.com/petermurrayrust)
-- Jenny Molloy [@jenny_molloy](https://twitter.com/jenny_molloy)
 - The ContentMine Team [@TheContentMine] (https://twitter.com/TheContentMine)
 
 ### Please read the [Pre-workshop Installation Instructions] (https://github.com/ContentMine/SciDataCon2014/blob/master/Info/README.md) 
