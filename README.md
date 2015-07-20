@@ -6,7 +6,6 @@ ContentMine Workshop at the University of Bath
 ## Information about the event [here] (http://www.eventbrite.com/e/text-data-mining-for-biologists-registration-17603659018) 
 
 #### Location: Room 3.7, Building 3 West, University of Bath
-#### Date: 28th July 2015
 
 |28th July 2015          | 
 :---------------:         | 
