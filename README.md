@@ -22,8 +22,7 @@ Contact us via [@TheContentMine] (https://twitter.com/TheContentMine) or ross.mo
 - Peter Murray-Rust [@petermurrayrust](https://twitter.com/petermurrayrust)
 - The ContentMine Team [@TheContentMine] (https://twitter.com/TheContentMine)
 
-### Please read the [Pre-workshop Installation Instructions] (https://github.com/ContentMine/SciDataCon2014/blob/master/Info/README.md) 
-##### We would also appreciate your [feedback](https://docs.google.com/forms/d/1nCaM6_sA-clrWDoNzdua5Luxg8bV7dcBMj82pERIIpQ/viewform)
+### Please read the [Pre-workshop Installation Instructions] (https://github.com/ContentMine/workshop-resources/blob/master/software-tutorials/vms/README.md) 
 
 ### Workshop Purpose
 Content mining technologies hold much potential for maximising discovery and reuse of research as well as generating novel scientific discoveries through automatedly searching, indexing and analysing the scientific literature. 
