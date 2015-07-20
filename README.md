@@ -29,31 +29,24 @@ Contact us via [@TheContentMine] (https://twitter.com/TheContentMine) or ross.mo
 ### Workshop Purpose
 Content mining technologies hold much potential for maximising discovery and reuse of research as well as generating novel scientific discoveries through automatedly searching, indexing and analysing the scientific literature. 
 
-This workshop aims to educate and engage researchers and research-related professionals in the UK who are interested in using these technologies for their work in human and animal health. In turn this will help to provide demonstrable examples of the benefits of content mining.
+This workshop aims to educate and engage researchers and research-related professionals in the UK who are interested in using these technologies for their work in the biological sciences. In turn this will help to provide demonstrable examples of the benefits of content mining.
 
-Participants will be instructed in use and custom development of tools in the ContentMine pipeline before having the opportunity to apply these skills to a series of hackday projects aimed at producing useful applications for researchers and funders.
-
-On the final afternoon, participants will showcase their projects to invited policy makers and a policy panel session will discuss the future potential of content mining. This includes how to accelerate uptake for research and research assessment with the purpose of promoting content mining in the UK.
+Participants will be instructed in use and custom development of tools in the ContentMine pipeline before having the opportunity to apply these skills for their own needs.
 
 ### Workshop Objectives
 1. Raise awareness of content mining among researchers.
 2. Train 20-25 researchers in using the ContentMine pipeline tools.
 3. Promote legal and responsible content mining practices.
-4. Prototype or at least explore developing a range of new applications and tools that might be useful to funders and researchers.
-5. Showcase the scope of potential applications for content mining to workshop participants and invited policy staff.
-6. Discuss and suggest requirements to drive uptake of content mining e.g. training, policy, use cases, commercial applications.
 
 ### Anticipated Workshop Outcomes
 1. Research or assessment performed using ContentMine tools by a proportion of workshop participants.
-2. Production of two or more prototype applications designed to be useful to the funders and/or researchers. 
-3. Continuing collaboration and development of a proportion of hackday prototypes by participants and ContentMine staff.
+2. Production of new journal scraper definitions. 
+3. Continuing collaboration with participants and the ContentMine project.
 4. One or more ContentMine trainers recruited from pool of participants, increasing the reach of training for content mining.
-5. Better informed policy staff as a result of panel discussion and publication of outputs.
-6. Demand for training by further organisations or individuals linked to the Wellcome Trust, therefore potential for increased impact beyond this particular workshop.
 
 ### Intended Audience
 
-This two day event is intended for researchers or research-related staff who are not currently heavily involved in text and data mining but have at least some pre-existing computational skills. At minimum we expect familiarity with a command line interface and basic coding abilities in some language. Experienced developers are also extremely welcome. We expect participants to be researchers working in the fields of life science and biomedicine. All our examples and activities will therefore be geared to animal and health sciences and the hackday projects will focus on custom tools and analyses of interest to researchers in these disciplines. Open Access content in the Europe PMC repository will be the primary source material for this hackathon. 
+This one day event is intended for researchers or research-related staff who are not currently heavily involved in text and data mining but have at least some pre-existing computational skills. At minimum we expect familiarity with a command line interface. Experienced developers are also extremely welcome. We expect participants to be researchers working in the fields of life science and biomedicine. All our examples and activities will therefore be geared to biological and biomedical sciences. Open Access content in the Europe PMC repository will be the primary source material for this workshop. 
 
 
 ### Training Workshop Agenda
